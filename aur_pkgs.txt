@@ -1,0 +1,14 @@
+anydesk-bin
+google-chrome
+hyphen-ro
+hyphen-ru
+python310
+unigine-superposition
+viber
+visual-studio-code-bin
+yay
+yay-debug
+yp-tools
+yp-tools-debug
+zsh-theme-powerlevel10k-git
+zsh-theme-powerlevel10k-git-debug
