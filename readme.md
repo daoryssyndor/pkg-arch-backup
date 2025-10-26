@@ -1,1 +1,1 @@
-# Arch package lists
+# Arch + Hyprland + NWG Shell base package lists
